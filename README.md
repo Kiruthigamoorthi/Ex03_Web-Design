@@ -25,7 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
     <title align="center">Slot Time Table</title>
@@ -85,6 +85,7 @@
 
 </body>
 </html>
+```
 
 ## OUTPUT
 
